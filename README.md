@@ -8,7 +8,7 @@ ABC family of companies is looking to out a new product they tested it in some l
 
 ## Data
 
-Data is provided by [Kaggel]( https://www.kaggle.com/vasudeva009/predicting-coupon-redemption) and the [Tanzanian Ministry of Water](http://maji.go.tz/) originally as part of a competition hosted by [DrivenData](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/).
+Data is provided by [Kaggel]( https://www.kaggle.com/vasudeva009/predicting-coupon-redemption).
 
 It contains approximately over 78,000 instances.
 ## Methodology
@@ -30,8 +30,7 @@ Because of the extreme imbalance and limited amount of information the training 
 •	Send coupons to customers in the top 2 age brackets. 
 
 ## Future Work
-* **Find out why repeat coupon users used coupons:**
-* **Separate coupons used my type:**
-* **See if there are other similarities between people who use coupons:**  such as other hobbies, amount of free time, weather they work or not, ect
-
+* **Find out why repeat coupon users used coupons:**Couponing is a life style for some understanding that and the cultural norms behind that would help to identify new potential coupon users. 
+* **Separate coupons used my type:** The type of coupon place an important roll in weather or not it is relevant to a consumer.  If a consumer dose not own a dog there is no amount marketing will get them to dog food. 
+*See if there are other similarities between people who use coupons:**   Other hobbies, amount of free time, weather they work or not, ect are things worth looking at to find other similarities. 
 
