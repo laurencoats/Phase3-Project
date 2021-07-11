@@ -1,6 +1,6 @@
 # Coupon Usage Classification
 
-## Presentation and Analysis/Analytics by Lauren Coats
+# Presentation and Analysis/Analytics by Lauren Coats
 
 ## Problem
 
